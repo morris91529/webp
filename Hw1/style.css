@@ -1,0 +1,22 @@
+body{
+    background-image:url('https://cdn.discordapp.com/attachments/601289196065259530/955468847459217418/362AFB1B-7122-4A2A-AC2F-F6BD861A5650.jpg');
+    text-align:center;
+}
+h1{
+    color: teal;
+}
+h2{
+    color: red;
+}
+@media (max-width:900px) {
+    body{
+        background-image:url('https://cdn.discordapp.com/attachments/601289196065259530/955471936031432734/3F1F8A94-D05F-4D51-821A-7B7393652046.jpg');
+    }
+    .cat{
+        width: 50%;
+    }
+    h1{
+        color: aqua;
+    }
+    
+}
